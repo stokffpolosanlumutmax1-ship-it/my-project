@@ -1,1 +1,17 @@
-{}
+{
+  "mtxhexe7lmdv": {
+    "job_id": "mtxhexe7lmdv",
+    "release_id": 387351815,
+    "release_tag": "build-mtxhexe7lmdv",
+    "run_id": 34650650476,
+    "user_id": 8988366547,
+    "created_at": "2026-09-11T21:42:24.829Z",
+    "build_type": "release",
+    "only_analyze": "false",
+    "dev_name": "@BackupRiff",
+    "project_name": "ZIP Upload",
+    "mode_label": "📦 Release Build",
+    "log_chat_id": null,
+    "log_msg_id": null
+  }
+}
